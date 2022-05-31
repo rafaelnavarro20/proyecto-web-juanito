@@ -4,7 +4,7 @@
 	
       <title>inicio</title>
 	  <script src= "js/script.js"></script>
-	  <link rel="stylesheet" href="css/estilos.css"></link>
+	   <link rel="stylesheet" href="css/mi-estilo-rafael.css"></link>
 	  
     </head>
 
@@ -13,10 +13,11 @@
 	<ul>
 	
       <li><a href="index.html">inicio</a></li>
-	  <li><a href="galeria.html">galeria</a></li>
-	  <li><a href="contacto.html">contacto</a></li>
-      <li><a href="acerca de.html">Acerca de </a></li>
-	  <li><a href="blog.html">blog</a></li>
+	  <li><a href="programacion-web-rafael.html">programacion-web-rafael</a></li>
+	  <li><a href="programacion-movil-ios-rafael.html">programacion-movil-ios-rafael</a></li>
+      <li><a href="laravel-rafael.html">laravel-rafael</a></li>
+	  <li><a href="acerca-de.html">acerca-de</a></li>
+
 
 	</ul>
 	pagina de inicio
